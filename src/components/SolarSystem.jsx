@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Title from './Title';
 import PlanetCard from './PlanetCard';
 import planets from '../data/planets';
+import './CSS/SolarSystem.css';
 
 class SolarSystem extends Component {
   render() {
@@ -11,7 +12,9 @@ class SolarSystem extends Component {
     return (
       <div data-testid="solar-system">
         <Title headline="Planetas" />
-        {listPlanets}
+        <div className="flex-container">
+          {listPlanets}
+        </div>
       </div>
     );
   }
