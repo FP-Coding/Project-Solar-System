@@ -1,31 +1,31 @@
-.mercurio {
+.planetas:nth-child( 1 ) img {
   width: 50px;
 }
 
-.venus {
+.planetas:nth-child( 2 ) img {
   width: 150px;
 }
 
-.terra {
+.planetas:nth-child( 3 ) img {
   width: 170px;
 }
 
-.marte {
+.planetas:nth-child( 4 ) img {
   width: 100px;
 }
 
-.jupiter {
+.planetas:nth-child( 5 ) img {
   width: 250px;
 }
 
-.saturno {
+.planetas:nth-child( 6 ) img {
   width: 270px;
 }
 
-.urano {
+.planetas:nth-child( 7 ) img {
   width: 190px;
 }
 
-.netuno {
+.planetas:nth-child( 8 ) img {
   width: 185px;
 }
