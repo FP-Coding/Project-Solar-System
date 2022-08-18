@@ -10,7 +10,6 @@ class PlanetCard extends Component {
           { planetName }
         </p>
         <img src={ planetImage } alt={ `Planeta ${planetName}` } />
-        {console.log(planetImage)}
       </div>
     );
   }
