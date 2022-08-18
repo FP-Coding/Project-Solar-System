@@ -1,31 +1,31 @@
-#Mercúrio {
+.mercurio {
   width: 50px;
 }
 
-#Vênus {
+.venus {
   width: 150px;
 }
 
-#Terra {
+.terra {
   width: 170px;
 }
 
-#Marte {
+.marte {
   width: 100px;
 }
 
-#Júpiter {
+.jupiter {
   width: 250px;
 }
 
-#Saturno {
+.saturno {
   width: 270px;
 }
 
-#Urano {
+.urano {
   width: 190px;
 }
 
-#Netuno {
+.netuno {
   width: 185px;
 }
