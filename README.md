@@ -16,10 +16,6 @@ Projeto realizado durante módulo de Front-end do curso de desenvolvimento web d
   Neste projeto, foi desenvolvido uma página utilizando o biblioteca React para listar todos os planetas do Sistema Solar e também algumas das missões espaciais mais conhecidas. Colocando em prática alguns dos conceitos básicos de React: componentes, props e composição de componentes.
   </p>
 
-  Como ficou:
-  
-  ![imagem da página](public/examples/req10.png)
-
 </details>
 <details>
   <summary><strong>Estrutura do projeto</strong></summary>
